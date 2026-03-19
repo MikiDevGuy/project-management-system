@@ -1,0 +1,42 @@
+To make your web application redirect to login.php by default instead of index.php when accessing http://localhost/test-manager/, you have a few options:
+
+Option 1: Modify Directory Index in Apache (Recommended)
+Edit your .htaccess file in the root directory (test-manager/) and add:
+
+htaccess
+DirectoryIndex login.php index.php index.html
+This tells Apache to look for login.php first when loading the directory.
+
+If you don't have an .htaccess file, create one with just that line.
+
+Option 2: Redirect in index.php (Your Current Approach)
+Your current PHP code is correct, but make sure:
+
+There are no output (echo, HTML, whitespace) before the header() call
+
+The file is saved without BOM (Byte Order Mark)
+
+The login.php file exists in the same directory
+
+Your code should work as-is:
+
+php
+<?php
+session_start();
+if (!isset($_SESSION['user_id'])) {
+    header("Location: login.php");
+    exit;
+} 
+include 'db.php';
+?>
+Option 3: Create a Redirect in index.php (Simpler Alternative)
+If you always want to redirect to login.php regardless of session status:
+
+php
+<?php
+header("Location: login.php");
+exit;
+?>
+
+
+
