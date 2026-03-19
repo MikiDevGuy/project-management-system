@@ -50,57 +50,111 @@ The Project Management System provides a centralized platform for managing the f
 - **Dashboard & Reporting System:** Module dashboards, unified dashboard, real-time metrics, KPIs  
 - **Notification System:** Alerts, email notifications, status updates  
 
+-----------------------------------------------------------------------
+## 📸 Screenshots
+
+<div align="center">
+  <i>Click on any screenshot to view full size</i>
+</div>
+
+<br>
+
+### 🔐 Authentication
+| | |
+|:---:|:---:|
+| **Login Page** | |
+| <img src="Screenshots/login.png" alt="Login Page" width="400"/> | |
+
 ---
 
-## 📸 Screenshots Gallery
+### 📊 Dashboard Views
+| | |
+|:---:|:---:|
+| **Dashboard Overview 1** | **Dashboard Overview 2** |
+| <img src="Screenshots/1. Dashboard1.png" alt="Dashboard 1" width="400"/> | <img src="Screenshots/Dashboard2.png" alt="Dashboard 2" width="400"/> |
 
-### Authentication & Dashboard
-| Login Page | Dashboard 1 | Dashboard 2 |
-|------------|-------------|-------------|
-| ![Login](Screenshots/login.png) | ![Dashboard1](Screenshots/1. Dashboard1.png) | ![Dashboard2](Screenshots/Dashboard2.png) |
+---
 
-### User Management
-| User Registration | User Assignment 1 | User Assignment 2 |
-|-----------------|-----------------|-----------------|
-| ![User Registration](Screenshots/user-registration-with-role.png) | ![User Assignment 1](Screenshots/user-assignment1.png) | ![User Assignment 2](Screenshots/user-assignment2.png) |
+### 👥 User Management
+| | |
+|:---:|:---:|
+| **User Registration with Role Assignment** | **User Assignment 1** |
+| <img src="Screenshots/user-registration-with-role.png" alt="User Registration" width="400"/> | <img src="Screenshots/user-assignment1.png" alt="User Assignment 1" width="400"/> |
+| **User Assignment 2** | **Bulk User Assignment** |
+| <img src="Screenshots/user-assignment2.png" alt="User Assignment 2" width="400"/> | <img src="Screenshots/bulk-assignment.png" alt="Bulk Assignment" width="400"/> |
+| **Module Assignment** | |
+| <img src="Screenshots/module-assignment.png" alt="Module Assignment" width="400"/> | |
 
-| Bulk Assignment | Module Assignment |  |
-|----------------|-----------------|--|
-| ![Bulk Assignment](Screenshots/bulk-assignment.png) | ![Module Assignment](Screenshots/module-assignment.png) |  |
+---
 
-### Project Management
-| Project Profiles | Project Phases | Project Intake |
-|-----------------|----------------|---------------|
-| ![Project Profiles](Screenshots/Project-profiles.png) | ![Project Phases](Screenshots/Project-profiles-phases.png) | ![Project Intake](Screenshots/project-intake-form.png) |
+### 📁 Project Management
+| | |
+|:---:|:---:|
+| **Project Profiles** | **Project Profiles - Phases** |
+| <img src="Screenshots/Project-profiles.png" alt="Project Profiles" width="400"/> | <img src="Screenshots/Project-profiles-phases.png" alt="Project Phases" width="400"/> |
+| **Project Intake Form** | **Project Hierarchy** |
+| <img src="Screenshots/project-intake-form.png" alt="Project Intake" width="400"/> | <img src="Screenshots/project_hierarchy.png" alt="Project Hierarchy" width="400"/> |
+| **Project Scheduler** | |
+| <img src="Screenshots/project-scheduler.png" alt="Project Scheduler" width="400"/> | |
 
-| Project Hierarchy | Project Scheduler |  |
-|-----------------|-----------------|--|
-| ![Project Hierarchy](Screenshots/project_hierarchy.png) | ![Project Scheduler](Screenshots/project-scheduler.png) |  |
+---
 
-### Budget & Reports
-| Budget Dashboard | Budget Report | Consolidated Reports |
-|-----------------|--------------|-------------------|
-| ![Budget Dashboard](Screenshots/budget-dashboard.png) | ![Budget Report](Screenshots/budget-report.png) | ![Consolidated Reports](Screenshots/consolidated_reports.png) |
+### 💰 Budget Management
+| | |
+|:---:|:---:|
+| **Budget Dashboard** | **Budget Report** |
+| <img src="Screenshots/budget-dashboard.png" alt="Budget Dashboard" width="400"/> | <img src="Screenshots/budget-report.png" alt="Budget Report" width="400"/> |
 
-| Consolidated Reports (Projects) |  |  |
-|-----------------|--|--|
-| ![Consolidated Reports Projects](Screenshots/consolidated_reports-projects.png) |  |  |
+---
 
-### Issue & Risk Tracking
-| Issue Dashboard | Issue Report | Risk Dashboard |
-|----------------|-------------|----------------|
-| ![Issue Dashboard](Screenshots/issue-tracker-dashboard.png) | ![Issue Report](Screenshots/issue-tracker-report.png) | ![Risk Dashboard](Screenshots/risk-dashboard.png) |
+### 📊 Reporting & Analytics
+| | |
+|:---:|:---:|
+| **Consolidated Reports** | **Consolidated Reports - Projects** |
+| <img src="Screenshots/consolidated_reports.png" alt="Consolidated Reports" width="400"/> | <img src="Screenshots/consolidated_reports-projects.png" alt="Consolidated Reports Projects" width="400"/> |
 
-| Risk Report |  |  |
-|------------|--|--|
-| ![Risk Report](Screenshots/risk-report.png) |  |  |
+---
 
-### Events & Testing
-| Event Management | Test Case Dashboard |  |
-|-----------------|------------------|--|
-| ![Event Management](Screenshots/event-management-dashboard.png) | ![Test Case Dashboard](Screenshots/Test-case-dashboard.png) |  |
+### 🐞 Issue Tracking
+| | |
+|:---:|:---:|
+| **Issue Tracker Dashboard** | **Issue Tracker Report** |
+| <img src="Screenshots/issue-tracker-dashboard.png" alt="Issue Tracker Dashboard" width="400"/> | <img src="Screenshots/issue-tracker-report.png" alt="Issue Tracker Report" width="400"/> |
 
-> 📍 Note: All screenshots are stored in the `Screenshots/` directory relative to the repository root.  
+---
+
+### 📅 Event Management
+| |
+|:---:|
+| **Event Management Dashboard** |
+| <img src="Screenshots/event-management-dashboard.png" alt="Event Management Dashboard" width="400"/> |
+
+---
+
+### ⚠️ Risk Management
+| | |
+|:---:|:---:|
+| **Risk Dashboard** | **Risk Report** |
+| <img src="Screenshots/risk-dashboard.png" alt="Risk Dashboard" width="400"/> | <img src="Screenshots/risk-report.png" alt="Risk Report" width="400"/> |
+
+---
+
+### 🧪 Test Management
+| |
+|:---:|
+| **Test Case Dashboard** |
+| <img src="Screenshots/Test-case-dashboard.png" alt="Test Case Dashboard" width="400"/> |
+
+---
+
+<div align="center">
+  <br>
+  <b>🖼️ Complete Screenshot Gallery</b>
+  <br><br>
+  <i>The screenshots above demonstrate the key functionality and user interface of each module in the Project Management System.</i>
+</div>
+
+
 > **Total Screenshots: 20+ covering all major modules and functionality**
 
 ---
