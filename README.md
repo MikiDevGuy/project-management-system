@@ -71,7 +71,7 @@ The Project Management System provides a centralized platform for managing the f
 | | |
 |:---:|:---:|
 | **Dashboard Overview 1** | **Dashboard Overview 2** |
-| <img src="Screenshots/1. Dashboard1.png" alt="Dashboard 1" width="400"/> | <img src="Screenshots/Dashboard2.png" alt="Dashboard 2" width="400"/> |
+| <img src="Screenshots/Dashboard1.png" alt="Dashboard 1" width="400"/> | <img src="Screenshots/Dashboard2.png" alt="Dashboard 2" width="400"/> |
 
 ---
 
